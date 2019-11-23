@@ -1,0 +1,19 @@
+"-p" 
+
+"D:\Software\IAR Systems\Embedded Workbench STM8 2.2.0\stm8\config\ddf\iostm8l152k4.ddf" 
+
+"-d" 
+
+"stlink" 
+
+"--mcuname" 
+
+"STM8L152K4" 
+
+"--verify_download" 
+
+"--erase_memory" 
+
+
+
+

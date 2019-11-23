@@ -1,0 +1,3 @@
+---- TxAutoReg Matches (2 in 2 files) ----
+RC522.c (driver\rc522):  WriteRawRC(TxAutoReg,0x40);
+RC522.h (driver\rc522):#define     TxAutoReg             0x15
